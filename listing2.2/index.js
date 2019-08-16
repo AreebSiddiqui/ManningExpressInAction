@@ -1,3 +1,6 @@
+// In this example Url Module is brought up in scope which retuns an
+// url object and that object implemets a parse fucntion 
+// Used for Url Parsing
 const url=require("url");
 const ParsedUrl=url.parse("http://www.example.com/profile?name=barry");
 console.log("Protocol:",ParsedUrl.protocol);
