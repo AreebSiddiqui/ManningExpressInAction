@@ -4,3 +4,4 @@ let result  = mustache.render("Hi,{{first_name}} {{second_name}}!",{
     second_name:"Siddiqui"
     });
     console.log(result);
+    
