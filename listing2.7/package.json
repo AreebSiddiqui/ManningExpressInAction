@@ -1,0 +1,18 @@
+{
+  "name": "lisitng2.2",
+  "version": "1.0.0",
+  "description": "Using a third party module Mustache which template strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/AreebSiddiqui/ManningExpressInAction.git^C"
+  },
+  "author": "Muhammad Areeb Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^3.0.1"
+  }
+}
