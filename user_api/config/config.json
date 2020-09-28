@@ -1,0 +1,23 @@
+{
+	"development": {
+		"username": "amir",
+		"password": "%3p4br3X",
+		"database": "userknexjs",
+		"host": "109.203.112.33",
+		"dialect": "mysql"
+	},
+	"test": {
+		"username": "amir",
+		"password": "%3p4br3X",
+		"database": "userknexjs",
+		"host": "109.203.112.33",
+		"dialect": "mysql"
+	},
+	"production": {
+		"username": "amir",
+		"password": "%3p4br3X",
+		"database": "userknexjs",
+		"host": "109.203.112.33",
+		"dialect": "mysql"
+	}
+}
